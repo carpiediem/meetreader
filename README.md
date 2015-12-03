@@ -79,3 +79,5 @@ would output
         }
       ]
     }
+
+Then, further code would lookup "Sarah Thompson" in a database of existing swimmers, teams, and results and return suggestions for which swimmer this likely refers to.  If the choice is clear, ID numbers could be added immediately to each swimmer (or they could be marked as new swimmers to be added to the database).  Where there was ambiguity, a list of potential choices could be displayed ot the user adding this new file.
